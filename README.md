@@ -1,2 +1,2 @@
 # DLKTF
-Ancillary files for the presentation "Deep Learning mit Keras und TensorFlow" at Digital Xchange.
+Ergänzende Materialen der Präsentation "Deep Learning mit Keras und TensorFlow" von der Digital Xchange 2019.
