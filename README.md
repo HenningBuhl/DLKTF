@@ -3,10 +3,15 @@ Ergänzende Materialen der Präsentation "Deep Learning mit Keras und TensorFlow
 
 # Inhalt
 ...
-# Google Colan Setup
+
+# Google Colab Setup
 ...
 
+# Resourcen für das Selbststudium
+...
 
+# Deep Learning spielerisch
+...
 
-
-
+# Fragen zum Lösen
+...
