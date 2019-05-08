@@ -8,14 +8,17 @@ Ergänzende Materialen der Präsentation "Deep Learning mit Keras und TensorFlow
 
 # Resourcen für das Selbststudium
 
-[Online-Buch von Michael Nielson](http://neuralnetworksanddeeplearning.com/)
-[Videos von Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-[Deep Learning Buch von Yoshua Bengio und Aaron Courville](https://www.deeplearningbook.org/)
+[Online-Buch](http://neuralnetworksanddeeplearning.com/) von Michael Nielson
+
+[Videos](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) von Andrew Ng
+
+[Buch](https://www.deeplearningbook.org/) von Yoshua Bengio und Aaron Courville
 
 # Deep Learning spielerisch
 
-[TensorFlow Neural Network Visualization](https://playground.tensorflow.org/)
-[ConvnetJS (stanford) Neural Network Visualization](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
+TensorFlow Neural Network [Visualization](https://playground.tensorflow.org/)
+
+ConvnetJS (stanford) Neural Network [Visualization](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
 
 # Fragen zum Recherchieren
 
