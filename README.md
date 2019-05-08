@@ -4,6 +4,12 @@ Ergänzende Materialen der Präsentation "Deep Learning mit Keras und TensorFlow
 
 # Google Colab Setup
 
+## Google Colab Setup
+
+...
+
+## Jupyter Notebook
+
 ...
 
 # Resourcen für das Selbststudium
@@ -26,5 +32,13 @@ ConvnetJS (stanford) Neural Network [Visualization](https://cs.stanford.edu/peop
 2. Welche Arten der **Normalisierung** gibt es?
 3. Was ist der Unteschied zwischen **Batch** Gradient Descent und **Mini-Batch** Gradient Descent?
 4. Was ist **Momentum** Gradient Descent?
-5. ...
+5. Was ist eine **Fully-Connected** Layer?
+6. Was ist eine **Convolutional** Layer?
+7. Was ist eine **Pooling** Layer?
+8. Was ist ein **Recurrent** Neural Network?
+
+
+
+
+
 
