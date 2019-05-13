@@ -28,14 +28,15 @@ ConvnetJS (stanford) Neural Network [Visualization](https://cs.stanford.edu/peop
 
 # Fragen zum Recherchieren
 
+1. Was ist das Bias?
 1. Was is **One-Hot Encoding**?
-2. Welche Arten der **Normalisierung** gibt es?
-3. Was ist der Unteschied zwischen **Batch** Gradient Descent und **Mini-Batch** Gradient Descent?
-4. Was ist **Momentum** Gradient Descent?
-5. Was ist eine **Fully-Connected** Layer?
-6. Was ist eine **Convolutional** Layer?
-7. Was ist eine **Pooling** Layer?
-8. Was ist ein **Recurrent** Neural Network?
+1. Welche Arten der **Normalisierung** gibt es?
+1. Was ist der Unteschied zwischen **Batch** Gradient Descent und **Mini-Batch** Gradient Descent?
+1. Was ist **Momentum** Gradient Descent?
+1. Was ist eine **Fully-Connected** Layer?
+1. Was ist eine **Convolutional** Layer?
+1. Was ist eine **Pooling** Layer?
+1. Was ist ein **Recurrent** Neural Network?
 
 
 
