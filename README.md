@@ -2,19 +2,15 @@
 
 Ergänzende Materialen der Präsentation "Deep Learning mit Keras und TensorFlow" von der Digital Xchange 2019.
 
-# Google Colab Setup
+# Google Colab
 
-## Google Colab Setup
+## Setup
 
-...
-
-## Jupyter Notebook
-
-...
+Öffnen Sie [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb). Klicken Sie links oben auf File -> Upload Notebook -> GitHub und geben HenningBuhl in das Suchfeld ein. Weitere Anweisungen finden Sie dann im Notebook.
 
 # Resourcen für das Selbststudium
 
-[Online-Buch](http://neuralnetworksanddeeplearning.com/) von Michael Nielson
+[Buch](http://neuralnetworksanddeeplearning.com/) von Michael Nielson
 
 [Videos](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) von Andrew Ng
 
