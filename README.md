@@ -6,7 +6,7 @@ Ergänzende Materialen der Präsentation "Deep Learning mit Keras und TensorFlow
 
 ## Setup
 
-Öffnen Sie [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb). Klicken Sie links oben auf File -> Upload Notebook -> GitHub und geben HenningBuhl in das Suchfeld ein. Weitere Anweisungen finden Sie dann im Notebook.
+Öffnen Sie [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb). Klicken Sie links oben auf File -> Upload Notebook -> GitHub und geben HenningBuhl in das Suchfeld ein. Sie haben die Wahl zwischen einem MLP (Multi-Layer-Perceptron) und einem CNN (Convolutional Network). Wir haben das MLP in dem Vortrag behandelt. Das CNN können Sie ggf. durch eigene Recherche versuchen zu verstehen. Weitere Anweisungen finden Sie dann im Notebook.
 
 # Resourcen für das Selbststudium
 
